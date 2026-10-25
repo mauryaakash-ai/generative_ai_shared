@@ -8,5 +8,3 @@ module1/labs/autoencoders/lfw/
 *_outputs/
 *.pt
 
-# Upstream templates
-upstream_templates/
