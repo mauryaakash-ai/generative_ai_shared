@@ -7,4 +7,9 @@ module1/labs/autoencoders/lfw/
 *_student/
 *_outputs/
 *.pt
+*.bin
+*.safetensors
+*.csv
+deberta-v3-small/
+
 
